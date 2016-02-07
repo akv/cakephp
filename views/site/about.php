@@ -1,6 +1,10 @@
 <?php
 
+<<<<<<< HEAD
 /* @var $this yii\web\View This is about the latest code */
+=======
+/* @var $this yii\web\View asdasdasd */
+>>>>>>> branchT2
 
 use yii\helpers\Html;
 
